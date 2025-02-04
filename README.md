@@ -6,7 +6,7 @@ A streamlined solution for sellers to capture and manage their packaging process
 - uploaded to AWS
 - retrieve via QR
 
-Created by  [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[DEMO](https://cam.sugami.vn/packcam)
 
 ## Getting Started
 
